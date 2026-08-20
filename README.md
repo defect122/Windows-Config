@@ -1,12 +1,12 @@
 # Personal Windows Config
 This is my personal Windows configuration for development, until I can switch to Linux and avoid Windows applications
-For Neovim, based on the [nvim-lite](https://github.com/radleylewis/nvim-lite) and added some personal additions
-For Windows Ricing, from [MrDLingters/Win11GruvboxMaterial](https://github.com/MrDLingters/Win11GruvboxMaterial) and his YASB *Shibumi* bar
+- For Neovim, based on the [nvim-lite](https://github.com/radleylewis/nvim-lite) and added some personal additions
+- For Windows Ricing, from [MrDLingters/Win11GruvboxMaterial](https://github.com/MrDLingters/Win11GruvboxMaterial) and his YASB *Shibumi* bar
 
 Credit:
-https://www.youtube.com/@theradlectures (Neovim)
-https://www.youtube.com/@sethyedw (Neovim)
-https://www.youtube.com/@darrenlingters3512 (Windows Ricing)
+- https://www.youtube.com/@theradlectures (Neovim)
+- https://www.youtube.com/@sethyedw (Neovim)
+- https://www.youtube.com/@darrenlingters3512 (Windows Ricing)
 
 ## Requirements
 
